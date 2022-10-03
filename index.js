@@ -68,7 +68,7 @@ const player = new Player({
 })
 
 
-let level = 3
+let level = 1
 let levels = {
     1: {
         init: () => {
